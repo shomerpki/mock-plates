@@ -1,431 +1,305 @@
 {
 	"plates": [
-{
-	"id": 1,
-  "archiveRecord": {
-    "reason": "Made in error"
-  },
-  "barcode": "string",
-  "createdAt": "2022-11-17T19:45:10.744Z",
-  "creator": {
-    "handle": "lpasteur",
-    "id": "ent_a0SApq3z",
-    "name": "Louis Pasteur"
-  },
-  "fields": {
-    "additionalProp1": {
-      "displayValue": "string",
-      "isMulti": true,
-      "textValue": "Amp",
-      "type": "dna_sequence_link",
-      "value": "string"
-    },
-    "additionalProp2": {
-      "displayValue": "string",
-      "isMulti": true,
-      "textValue": "Amp",
-      "type": "dna_sequence_link",
-      "value": "string"
-    },
-    "additionalProp3": {
-      "displayValue": "string",
-      "isMulti": true,
-      "textValue": "Amp",
-      "type": "dna_sequence_link",
-      "value": "string"
-    }
-  },
-  "id": "string",
-  "modifiedAt": "2022-11-17T19:45:10.744Z",
-  "name": "string",
-  "parentStorageId": "string",
-  "projectId": "string",
-  "schema": {
-    "id": "string",
-    "name": "string"
-  },
-  "type": "matrix_plate",
-  "webURL": "string",
-  "wells": {
-    "additionalProp1": {
-      "archiveRecord": {
-        "reason": "Made in error"
-      },
-      "barcode": "string",
-      "checkoutRecord": {
-        "assignee": {
-          "handle": "lpasteur",
-          "id": "ent_a0SApq3z",
-          "name": "Louis Pasteur"
-        },
-        "comment": "string",
-        "modifiedAt": "2022-11-17T19:45:10.744Z",
-        "status": "AVAILABLE"
-      },
-      "contents": [
-        {
-          "batch": {
-            "archiveRecord": {
-              "reason": "Made in error"
-            },
-            "createdAt": "2022-11-17T19:45:10.744Z",
-            "creator": {
-              "handle": "lpasteur",
-              "id": "ent_a0SApq3z",
-              "name": "Louis Pasteur"
-            },
-            "defaultConcentration": {
-              "units": "string",
-              "value": 0
-            },
-            "entity": {
-              "entityType": "dna_sequence",
-              "id": "seq_ObbdtGhC"
-            },
-            "fields": {
-              "additionalProp1": {
-                "displayValue": "string",
-                "isMulti": true,
-                "textValue": "Amp",
-                "type": "dna_sequence_link",
-                "value": "string"
-              },
-              "additionalProp2": {
-                "displayValue": "string",
-                "isMulti": true,
-                "textValue": "Amp",
-                "type": "dna_sequence_link",
-                "value": "string"
-              },
-              "additionalProp3": {
-                "displayValue": "string",
-                "isMulti": true,
-                "textValue": "Amp",
-                "type": "dna_sequence_link",
-                "value": "string"
-              }
-            },
-            "id": "bat_UOIr8IjL",
-            "modifiedAt": "2022-11-17T19:45:10.744Z",
-            "name": "string",
-            "schema": {
-              "id": "string",
-              "name": "string"
-            },
-            "webURL": "string"
-          },
-          "concentration": {
-            "units": "string",
-            "value": 0
-          },
-          "entity": {}
-        }
-      ],
-      "createdAt": "2022-11-17T19:45:10.744Z",
-      "creator": {
-        "handle": "lpasteur",
-        "id": "ent_a0SApq3z",
-        "name": "Louis Pasteur"
-      },
-      "fields": {
-        "additionalProp1": {
-          "displayValue": "string",
-          "isMulti": true,
-          "textValue": "Amp",
-          "type": "dna_sequence_link",
-          "value": "string"
-        },
-        "additionalProp2": {
-          "displayValue": "string",
-          "isMulti": true,
-          "textValue": "Amp",
-          "type": "dna_sequence_link",
-          "value": "string"
-        },
-        "additionalProp3": {
-          "displayValue": "string",
-          "isMulti": true,
-          "textValue": "Amp",
-          "type": "dna_sequence_link",
-          "value": "string"
-        }
-      },
-      "id": "string",
-      "modifiedAt": "2022-11-17T19:45:10.744Z",
-      "name": "string",
-      "parentStorageId": "string",
-      "parentStorageSchema": {
-        "id": "string",
-        "name": "string"
-      },
-      "projectId": "string",
-      "quantity": {
-        "units": "mL",
-        "value": 10
-      },
-      "schema": {
-        "id": "string",
-        "name": "string"
-      },
-      "volume": {
-        "units": "mL",
-        "value": 10
-      },
-      "webURL": "string"
-    },
-    "additionalProp2": {
-      "archiveRecord": {
-        "reason": "Made in error"
-      },
-      "barcode": "string",
-      "checkoutRecord": {
-        "assignee": {
-          "handle": "lpasteur",
-          "id": "ent_a0SApq3z",
-          "name": "Louis Pasteur"
-        },
-        "comment": "string",
-        "modifiedAt": "2022-11-17T19:45:10.744Z",
-        "status": "AVAILABLE"
-      },
-      "contents": [
-        {
-          "batch": {
-            "archiveRecord": {
-              "reason": "Made in error"
-            },
-            "createdAt": "2022-11-17T19:45:10.744Z",
-            "creator": {
-              "handle": "lpasteur",
-              "id": "ent_a0SApq3z",
-              "name": "Louis Pasteur"
-            },
-            "defaultConcentration": {
-              "units": "string",
-              "value": 0
-            },
-            "entity": {
-              "entityType": "dna_sequence",
-              "id": "seq_ObbdtGhC"
-            },
-            "fields": {
-              "additionalProp1": {
-                "displayValue": "string",
-                "isMulti": true,
-                "textValue": "Amp",
-                "type": "dna_sequence_link",
-                "value": "string"
-              },
-              "additionalProp2": {
-                "displayValue": "string",
-                "isMulti": true,
-                "textValue": "Amp",
-                "type": "dna_sequence_link",
-                "value": "string"
-              },
-              "additionalProp3": {
-                "displayValue": "string",
-                "isMulti": true,
-                "textValue": "Amp",
-                "type": "dna_sequence_link",
-                "value": "string"
-              }
-            },
-            "id": "bat_UOIr8IjL",
-            "modifiedAt": "2022-11-17T19:45:10.744Z",
-            "name": "string",
-            "schema": {
-              "id": "string",
-              "name": "string"
-            },
-            "webURL": "string"
-          },
-          "concentration": {
-            "units": "string",
-            "value": 0
-          },
-          "entity": {}
-        }
-      ],
-      "createdAt": "2022-11-17T19:45:10.744Z",
-      "creator": {
-        "handle": "lpasteur",
-        "id": "ent_a0SApq3z",
-        "name": "Louis Pasteur"
-      },
-      "fields": {
-        "additionalProp1": {
-          "displayValue": "string",
-          "isMulti": true,
-          "textValue": "Amp",
-          "type": "dna_sequence_link",
-          "value": "string"
-        },
-        "additionalProp2": {
-          "displayValue": "string",
-          "isMulti": true,
-          "textValue": "Amp",
-          "type": "dna_sequence_link",
-          "value": "string"
-        },
-        "additionalProp3": {
-          "displayValue": "string",
-          "isMulti": true,
-          "textValue": "Amp",
-          "type": "dna_sequence_link",
-          "value": "string"
-        }
-      },
-      "id": "string",
-      "modifiedAt": "2022-11-17T19:45:10.744Z",
-      "name": "string",
-      "parentStorageId": "string",
-      "parentStorageSchema": {
-        "id": "string",
-        "name": "string"
-      },
-      "projectId": "string",
-      "quantity": {
-        "units": "mL",
-        "value": 10
-      },
-      "schema": {
-        "id": "string",
-        "name": "string"
-      },
-      "volume": {
-        "units": "mL",
-        "value": 10
-      },
-      "webURL": "string"
-    },
-    "additionalProp3": {
-      "archiveRecord": {
-        "reason": "Made in error"
-      },
-      "barcode": "string",
-      "checkoutRecord": {
-        "assignee": {
-          "handle": "lpasteur",
-          "id": "ent_a0SApq3z",
-          "name": "Louis Pasteur"
-        },
-        "comment": "string",
-        "modifiedAt": "2022-11-17T19:45:10.744Z",
-        "status": "AVAILABLE"
-      },
-      "contents": [
-        {
-          "batch": {
-            "archiveRecord": {
-              "reason": "Made in error"
-            },
-            "createdAt": "2022-11-17T19:45:10.744Z",
-            "creator": {
-              "handle": "lpasteur",
-              "id": "ent_a0SApq3z",
-              "name": "Louis Pasteur"
-            },
-            "defaultConcentration": {
-              "units": "string",
-              "value": 0
-            },
-            "entity": {
-              "entityType": "dna_sequence",
-              "id": "seq_ObbdtGhC"
-            },
-            "fields": {
-              "additionalProp1": {
-                "displayValue": "string",
-                "isMulti": true,
-                "textValue": "Amp",
-                "type": "dna_sequence_link",
-                "value": "string"
-              },
-              "additionalProp2": {
-                "displayValue": "string",
-                "isMulti": true,
-                "textValue": "Amp",
-                "type": "dna_sequence_link",
-                "value": "string"
-              },
-              "additionalProp3": {
-                "displayValue": "string",
-                "isMulti": true,
-                "textValue": "Amp",
-                "type": "dna_sequence_link",
-                "value": "string"
-              }
-            },
-            "id": "bat_UOIr8IjL",
-            "modifiedAt": "2022-11-17T19:45:10.744Z",
-            "name": "string",
-            "schema": {
-              "id": "string",
-              "name": "string"
-            },
-            "webURL": "string"
-          },
-          "concentration": {
-            "units": "string",
-            "value": 0
-          },
-          "entity": {}
-        }
-      ],
-      "createdAt": "2022-11-17T19:45:10.744Z",
-      "creator": {
-        "handle": "lpasteur",
-        "id": "ent_a0SApq3z",
-        "name": "Louis Pasteur"
-      },
-      "fields": {
-        "additionalProp1": {
-          "displayValue": "string",
-          "isMulti": true,
-          "textValue": "Amp",
-          "type": "dna_sequence_link",
-          "value": "string"
-        },
-        "additionalProp2": {
-          "displayValue": "string",
-          "isMulti": true,
-          "textValue": "Amp",
-          "type": "dna_sequence_link",
-          "value": "string"
-        },
-        "additionalProp3": {
-          "displayValue": "string",
-          "isMulti": true,
-          "textValue": "Amp",
-          "type": "dna_sequence_link",
-          "value": "string"
-        }
-      },
-      "id": "string",
-      "modifiedAt": "2022-11-17T19:45:10.744Z",
-      "name": "string",
-      "parentStorageId": "string",
-      "parentStorageSchema": {
-        "id": "string",
-        "name": "string"
-      },
-      "projectId": "string",
-      "quantity": {
-        "units": "mL",
-        "value": 10
-      },
-      "schema": {
-        "id": "string",
-        "name": "string"
-      },
-      "volume": {
-        "units": "mL",
-        "value": 10
-      },
-      "webURL": "string"
-    }
-  }
-}
-]
+		{
+			"id": 1,
+			"archiveRecord": {
+				"reason": "Made in error"
+			},
+			"barcode": "string",
+			"createdAt": "2022-11-17T19:45:10.744Z",
+			"creator": {
+				"handle": "lpasteur",
+				"id": "ent_a0SApq3z",
+				"name": "Louis Pasteur"
+			},
+			"fields": {
+				"additionalProp1": {
+					"displayValue": "string",
+					"isMulti": true,
+					"textValue": "Amp",
+					"type": "dna_sequence_link",
+					"value": "string"
+				},
+				"additionalProp2": {
+					"displayValue": "string",
+					"isMulti": true,
+					"textValue": "Amp",
+					"type": "dna_sequence_link",
+					"value": "string"
+				},
+				"additionalProp3": {
+					"displayValue": "string",
+					"isMulti": true,
+					"textValue": "Amp",
+					"type": "dna_sequence_link",
+					"value": "string"
+				}
+			},
+			"id": "string",
+			"modifiedAt": "2022-11-17T19:45:10.744Z",
+			"name": "string",
+			"parentStorageId": "string",
+			"projectId": "string",
+			"schema": {
+				"id": "string",
+				"name": "string"
+			},
+			"type": "matrix_plate",
+			"webURL": "string",
+			"wells": {
+				"additionalProp1": {
+					"archiveRecord": {
+						"reason": "Made in error"
+					},
+					"barcode": "string",
+					"checkoutRecord": {
+						"assignee": {
+							"handle": "lpasteur",
+							"id": "ent_a0SApq3z",
+							"name": "Louis Pasteur"
+						},
+						"comment": "string",
+						"modifiedAt": "2022-11-17T19:45:10.744Z",
+						"status": "AVAILABLE"
+					},
+					"contents": [
+						{
+							"batch": {
+								"archiveRecord": {
+									"reason": "Made in error"
+								},
+								"createdAt": "2022-11-17T19:45:10.744Z",
+								"creator": {
+									"handle": "lpasteur",
+									"id": "ent_a0SApq3z",
+									"name": "Louis Pasteur"
+								},
+								"defaultConcentration": {
+									"units": "string",
+									"value": 0
+								},
+								"entity": {
+									"entityType": "dna_sequence",
+									"id": "seq_ObbdtGhC"
+								},
+								"fields": {
+									"additionalProp1": {
+										"displayValue": "string",
+										"isMulti": true,
+										"textValue": "Amp",
+										"type": "dna_sequence_link",
+										"value": "string"
+									},
+									"additionalProp2": {
+										"displayValue": "string",
+										"isMulti": true,
+										"textValue": "Amp",
+										"type": "dna_sequence_link",
+										"value": "string"
+									},
+									"additionalProp3": {
+										"displayValue": "string",
+										"isMulti": true,
+										"textValue": "Amp",
+										"type": "dna_sequence_link",
+										"value": "string"
+									}
+								},
+								"id": "bat_UOIr8IjL",
+								"modifiedAt": "2022-11-17T19:45:10.744Z",
+								"name": "string",
+								"schema": {
+									"id": "string",
+									"name": "string"
+								},
+								"webURL": "string"
+							},
+							"concentration": {
+								"units": "string",
+								"value": 0
+							},
+							"entity": {}
+						}
+					],
+					"createdAt": "2022-11-17T19:45:10.744Z",
+					"creator": {
+						"handle": "lpasteur",
+						"id": "ent_a0SApq3z",
+						"name": "Louis Pasteur"
+					},
+					"fields": {
+						"additionalProp1": {
+							"displayValue": "string",
+							"isMulti": true,
+							"textValue": "Amp",
+							"type": "dna_sequence_link",
+							"value": "string"
+						},
+						"additionalProp2": {
+							"displayValue": "string",
+							"isMulti": true,
+							"textValue": "Amp",
+							"type": "dna_sequence_link",
+							"value": "string"
+						},
+						"additionalProp3": {
+							"displayValue": "string",
+							"isMulti": true,
+							"textValue": "Amp",
+							"type": "dna_sequence_link",
+							"value": "string"
+						}
+					},
+					"id": "string",
+					"modifiedAt": "2022-11-17T19:45:10.744Z",
+					"name": "string",
+					"parentStorageId": "string",
+					"parentStorageSchema": {
+						"id": "string",
+						"name": "string"
+					},
+					"projectId": "string",
+					"quantity": {
+						"units": "mL",
+						"value": 10
+					},
+					"schema": {
+						"id": "string",
+						"name": "string"
+					},
+					"volume": {
+						"units": "mL",
+						"value": 10
+					},
+					"webURL": "string"
+				},
+				"additionalProp2": {
+					"archiveRecord": {
+						"reason": "Made in error"
+					},
+					"barcode": "string",
+					"checkoutRecord": {
+						"assignee": {
+							"handle": "lpasteur",
+							"id": "ent_a0SApq3z",
+							"name": "Louis Pasteur"
+						},
+						"comment": "string",
+						"modifiedAt": "2022-11-17T19:45:10.744Z",
+						"status": "AVAILABLE"
+					},
+					"contents": [
+						{
+							"batch": {
+								"archiveRecord": {
+									"reason": "Made in error"
+								},
+								"createdAt": "2022-11-17T19:45:10.744Z",
+								"creator": {
+									"handle": "lpasteur",
+									"id": "ent_a0SApq3z",
+									"name": "Louis Pasteur"
+								},
+								"defaultConcentration": {
+									"units": "string",
+									"value": 0
+								},
+								"entity": {
+									"entityType": "dna_sequence",
+									"id": "seq_ObbdtGhC"
+								},
+								"fields": {
+									"additionalProp1": {
+										"displayValue": "string",
+										"isMulti": true,
+										"textValue": "Amp",
+										"type": "dna_sequence_link",
+										"value": "string"
+									},
+									"additionalProp2": {
+										"displayValue": "string",
+										"isMulti": true,
+										"textValue": "Amp",
+										"type": "dna_sequence_link",
+										"value": "string"
+									},
+									"additionalProp3": {
+										"displayValue": "string",
+										"isMulti": true,
+										"textValue": "Amp",
+										"type": "dna_sequence_link",
+										"value": "string"
+									}
+								},
+								"id": "bat_UOIr8IjL",
+								"modifiedAt": "2022-11-17T19:45:10.744Z",
+								"name": "string",
+								"schema": {
+									"id": "string",
+									"name": "string"
+								},
+								"webURL": "string"
+							},
+							"concentration": {
+								"units": "string",
+								"value": 0
+							},
+							"entity": {}
+						}
+					],
+					"createdAt": "2022-11-17T19:45:10.744Z",
+					"creator": {
+						"handle": "lpasteur",
+						"id": "ent_a0SApq3z",
+						"name": "Louis Pasteur"
+					},
+					"fields": {
+						"additionalProp1": {
+							"displayValue": "string",
+							"isMulti": true,
+							"textValue": "Amp",
+							"type": "dna_sequence_link",
+							"value": "string"
+						},
+						"additionalProp2": {
+							"displayValue": "string",
+							"isMulti": true,
+							"textValue": "Amp",
+							"type": "dna_sequence_link",
+							"value": "string"
+						},
+						"additionalProp3": {
+							"displayValue": "string",
+							"isMulti": true,
+							"textValue": "Amp",
+							"type": "dna_sequence_link",
+							"value": "string"
+						}
+					},
+					"id": "string",
+					"modifiedAt": "2022-11-17T19:45:10.744Z",
+					"name": "string",
+					"parentStorageId": "string",
+					"parentStorageSchema": {
+						"id": "string",
+						"name": "string"
+					},
+					"projectId": "string",
+					"quantity": {
+						"units": "mL",
+						"value": 10
+					},
+					"schema": {
+						"id": "string",
+						"name": "string"
+					},
+					"volume": {
+						"units": "mL",
+						"value": 10
+					},
+					"webURL": "string"
+				}
+			}
+		}
+	]
 }
